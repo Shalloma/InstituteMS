@@ -1,0 +1,51 @@
+c:\users\ishanfx\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\bin\Debug\InstituteMS.exe.config
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\bin\Debug\InstituteMS.exe
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\bin\Debug\InstituteMS.pdb
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.csprojResolveAssemblyReference.cache
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.empRegister.resources
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Properties.Resources.resources
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.stuAttendent.resources
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.stuRegister.resources
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.teachPayments.resources
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.teachRegister.resources
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.csproj.GenerateResource.Cache
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.exe
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.pdb
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.menu.resources
+C:\Users\IshanFX\documents\visual studio 2013\Projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.subMenus.resources
+E:\visual studio 2012\InstituteMS\InstituteMS\bin\Debug\InstituteMS.exe.config
+E:\visual studio 2012\InstituteMS\InstituteMS\obj\Debug\InstituteMS.exe
+E:\visual studio 2012\InstituteMS\InstituteMS\obj\Debug\InstituteMS.pdb
+E:\NSBM projects\InstituteMS\InstituteMS\bin\Debug\InstituteMS.exe.config
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.exe
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.pdb
+E:\NSBM projects\InstituteMS\InstituteMS\bin\Debug\InstituteMS.exe
+E:\NSBM projects\InstituteMS\InstituteMS\bin\Debug\InstituteMS.pdb
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.csprojResolveAssemblyReference.cache
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Properties.Resources.resources
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.csproj.GenerateResource.Cache
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.ReportsPayment.resources
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Course.resources
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Employee.resources
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Home.resources
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Student.resources
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Teacher.resources
+E:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.LogIn.resources
+G:\NSBM projects\InstituteMS\InstituteMS\bin\Debug\InstituteMS.exe.config
+G:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.exe
+G:\NSBM projects\InstituteMS\InstituteMS\obj\Debug\InstituteMS.pdb
+E:\My Development\c#\git project\InstituteMS\InstituteMS\bin\Debug\InstituteMS.exe.config
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.exe
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.pdb
+E:\My Development\c#\git project\InstituteMS\InstituteMS\bin\Debug\InstituteMS.exe
+E:\My Development\c#\git project\InstituteMS\InstituteMS\bin\Debug\InstituteMS.pdb
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.csprojResolveAssemblyReference.cache
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.LogIn.resources
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.ReportsPayment.resources
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Course.resources
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Employee.resources
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Home.resources
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Properties.Resources.resources
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Student.resources
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.Teacher.resources
+E:\My Development\c#\git project\InstituteMS\InstituteMS\obj\Debug\InstituteMS.csproj.GenerateResource.Cache
